@@ -1,2 +1,2 @@
 ### start
-[index.hmtl](/index.html)
+[index.html](/index.html)
