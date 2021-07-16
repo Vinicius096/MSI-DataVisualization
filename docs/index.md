@@ -1,2 +1,2 @@
 ### start
-[index.html](/index.html)
+[index.html](..blob/master/index.html)
