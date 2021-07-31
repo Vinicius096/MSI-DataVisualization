@@ -1,24 +1,30 @@
 <html>
-  <head>
-    <link rel="stylesheet" href="index.css" />
-    <title>MSI Data Viz</title>
-  </head>
 
-  <body>
-      <h1>First heading</h1>
-      <script src="https://d3js.org/d3.v7.min.js"></script>
-      <script src="index.js"></script>
-      <div>
-        <h3>Série Temporal</h3>
-        <p>Grafico de linhas e pontos, ajustar a escala, razão do apecto, legendas</p>
-      </div>
-      <div>
-        <h3>Distribuição</h3>
-        <p>BoxSplot ordenados, mudar a escala</p>
-      </div>
-      <div>
-        <h3>Correlação</h3>
-        <p>Linha de tendência, resultados totais</p>
-      </div>
-  </body>
+<head>
+	<link rel="stylesheet" href="index.css" />
+	<title>MSI Data Viz</title>
+</head>
+
+<body>
+	<script src="https://d3js.org/d3.v7.min.js"></script>
+	<script src="index.js"></script>
+	<script src="boxplot.js"></script>
+	
+	<div>
+		<h3>Distribuição</h3>
+		<p>BoxPlot ordenados, mudar a escala</p>
+		<div id="boxplot"></div>
+	</div>
+	
+	<div>
+		<h3>Série Temporal</h3>
+		<p>Grafico de linhas e pontos, ajustar a escala, razão do apecto, legendas</p>
+	</div>
+	
+	<div>
+		<h3>Correlação</h3>
+		<p>Linha de tendência, resultados totais</p>
+	</div>
+</body>
+
 </html>
