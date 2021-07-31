@@ -9,7 +9,7 @@ var svg = d3.select("#boxplot")
 	.append("g")
 		.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-d3.csv("../data/results.csv", function(data){
+d3.csv("https://raw.githubusercontent.com/Vinicius096/MSI-DataVisualization/master/data/results.csv", function(data){
 	var sumstat = d3.nest()
 		.key(function(d) { return d.Species;})
 		.rollup(function(d) {
