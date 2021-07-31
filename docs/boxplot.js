@@ -1,1 +1,1 @@
-d3.select("#boxplot").style('background-color', 'red')
+const chart = d3.select("#boxplot").style('color', 'red');
