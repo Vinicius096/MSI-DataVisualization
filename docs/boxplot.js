@@ -10,7 +10,7 @@ var svg = d3.select("#boxplot")
 		.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 d3.csv("https://raw.githubusercontent.com/Vinicius096/MSI-DataVisualization/master/data/results.csv", function(data){
-	var sumstat = d3.group()
+	var sumstat = d3.nest()
 		.key(function(d) { return d.Species;})
 		.rollup(function(d) {
 			q1 = d3.quantile(d.map(function(g) { return g.TF;}).sort(d3.ascending),.25)
