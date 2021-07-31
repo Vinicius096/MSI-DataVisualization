@@ -1,1 +1,1 @@
-d3.select("#boxplot").style('background', 'blue')
+d3.select("#boxplot").style('background-color', 'red')
