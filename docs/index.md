@@ -1,17 +1,83 @@
-## MSI Data-Visualization
+<html lang="en-US"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <link rel="stylesheet" type="text/css" media="screen" href="/MSI-DataVisualization/assets/css/style.css?v=394968be1543b27696bdc579be6ce7e914e0077a">
 
-Os dados utilzados nesa visualização foram coletados na primeira parte deste projeto e apresentados em [MSI (1)](https://github.com/Vinicius096/MSI-DataVisualization/blob/master/data/MSI(1).pdf)
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>MSI Data-Visualization | MSI-DataVisualization</title>
+<meta name="generator" content="Jekyll v3.9.0">
+<meta property="og:title" content="MSI Data-Visualization">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://vinicius096.github.io/MSI-DataVisualization/">
+<meta property="og:url" content="https://vinicius096.github.io/MSI-DataVisualization/">
+<meta property="og:site_name" content="MSI-DataVisualization">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="MSI Data-Visualization">
+<script type="application/ld+json">
+{"url":"https://vinicius096.github.io/MSI-DataVisualization/","@type":"WebSite","headline":"MSI Data-Visualization","name":"MSI-DataVisualization","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
 
 
-### Distribuição
 
-Boxplots
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/MSI-DataVisualization/favicon.ico" -->
 
+<!-- end custom head snippets -->
 
-### Correlação
+  </head>
 
-Scatter
+  <body>
 
-### Evolução
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          
+            <a id="forkme_banner" href="https://github.com/Vinicius096/MSI-DataVisualization">View on GitHub</a>
+          
 
-Linhas e pontos
+          <h1 id="project_title">MSI-DataVisualization</h1>
+          <h2 id="project_tagline"></h2>
+
+          
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h2 id="msi-data-visualization">MSI Data-Visualization</h2>
+
+<p>Os dados utilzados nesa visualização foram coletados na primeira parte deste projeto e apresentados em <a href="https://github.com/Vinicius096/MSI-DataVisualization/blob/master/data/MSI(1).pdf">MSI (1)</a></p>
+
+<h3 id="distribuição">Distribuição</h3>
+
+<p>Boxplots</p>
+
+<h3 id="correlação">Correlação</h3>
+
+<p>Scatter</p>
+
+<h3 id="evolução">Evolução</h3>
+
+<p>Linhas e pontos</p>
+
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        
+        <p class="copyright">MSI-DataVisualization maintained by <a href="https://github.com/Vinicius096">Vinicius096</a></p>
+        
+        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+  
+
+</body></html>
